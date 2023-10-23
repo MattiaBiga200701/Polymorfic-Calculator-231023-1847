@@ -6,7 +6,7 @@ public abstract class Operation {
     protected String op;
 
     //Costruttore
-    public Operation(){
+    protected Operation(){
         System.out.println("[JAVA PRINT] Abstract Operation construction done;");
     }
 
