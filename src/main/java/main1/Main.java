@@ -1,4 +1,4 @@
-package mainJava;
+package main1;
 import controller.Controller;
 
 public class Main {
