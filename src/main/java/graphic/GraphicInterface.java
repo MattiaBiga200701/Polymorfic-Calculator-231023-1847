@@ -30,7 +30,7 @@ public class GraphicInterface {
             try {
                 value = in.nextDouble();
                 controlVar = false;
-            } catch (InputMismatchException Exception) {
+            } catch (InputMismatchException e) {
                 System.out.println(rosso + "ERROR: " + reset + "non hai inserito un numero Riprova;");
                 in.nextLine();
             }

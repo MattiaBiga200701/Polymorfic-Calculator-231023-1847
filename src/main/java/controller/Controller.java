@@ -17,7 +17,8 @@ public class Controller {
 
     public void initializer() {
 
-        double value1, value2;
+        double value1;
+        double value2;
         String op;
         boolean controlVar = true;
         anInterface.welcome();
