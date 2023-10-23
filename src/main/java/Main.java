@@ -6,7 +6,7 @@ public class Main {
         Controller controllerClass = new Controller();
         System.out.println("[JAVA PRINT] Main class started;\n");
         controllerClass.initializer();
-        System.out.println("commit prove");
+        System.out.println("commit prove 1");
 
     }
 }
